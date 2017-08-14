@@ -12,7 +12,7 @@ quotes = [
     "Once you choose hope, anything's possible... Christopher Reeve",
     "Do one thing every day that scares you... Eleanor Roosevelt",
     "Failure is another stepping stone to greatness...Oprah Winfrey",
-    "You miss 100 percent of the shots you don't take... Wayne Gretzky",
+    "You miss 100 percent of the shots you don't take... Wayne Gretzky...Michael Scott",
     "The way I see it, if you want the rainbow, you gotta put up with the rain...Dolly Parton",
     "Everything you can imagine is real...Pablo Picasso",
     "Be yourself. Everyone else is already taken...Oscar Wilde",
